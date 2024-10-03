@@ -1,5 +1,7 @@
 # Digispark
 
+Digispark é uma placa de desenvolvimento eletrônica baseada no microcontrolador Attiny85, que é um dispositivo de 8 bits. A placa é compacta, barata e ideal para projetos que precisam de um dispositivo pequeno e eficiente em termos de energia.
+
 Um Bad USB é um dispositivo USB que atua como um teclado USB para executar um ataque de injeção de teclas, que pode ser usado para abrir um terminal e executar comandos no computador de destino.
 Como esses ataques são programados, eles podem acontecer incrivelmente rápido. É uma loucura como um BadUSB com o script certo pode assumir o controle de um computador desbloqueado em apenas 3 segundos!
 
