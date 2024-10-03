@@ -3,23 +3,23 @@
 Um Bad USB é um dispositivo USB que atua como um teclado USB para executar um ataque de injeção de teclas, que pode ser usado para abrir um terminal e executar comandos no computador de destino.
 Como esses ataques são programados, eles podem acontecer incrivelmente rápido. É uma loucura como um BadUSB com o script certo pode assumir o controle de um computador desbloqueado em apenas 3 segundos!
 
-# Download da IDE
+**Download da IDE**
 ```
 https://www.arduino.cc/en/software
 ```
 Por padrão o arduino não será capaz de reconhecer o digispark
 Aki vai o tutorial de como configurar seu arduino para o digispark 
 
-Abra o arduino vá em Arquivo > preferência e copie essa URL
+Abra o arduino vá em **Arquivo > preferência** e copie essa URL
 ```
 https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json
 ```
 Agora iremos baixar a ferramenta para reconhecer: 
-Vá em Ferramentas > Placa > Gerenciador de placa
-Digite Digispark e instale o Digistomp AVR
+Vá em **Ferramentas > Placa > Gerenciador de placa**
+Digite **Digispark** e instale o **Digistomp AVR**
 No windows será necessário baixar os drivers caso contrário o Digispark não será detectado
 
-Link para baixar os drivers
+**Link para baixar os drivers**
 ```
 https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip
 ```
