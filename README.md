@@ -31,7 +31,7 @@ Vá em Ferramentas > Placa > Gerenciador de placa > Digistomp AVR > Digispark
 Pronto agora é só colocar o código e executar (Digispark terá 8s para colocar o código )
 
 
-Exemplo de codigo para o digispak:
+# Exemplo de codigo para o digispak:
 
 ```
 #include "DigiKeyboard.h"
